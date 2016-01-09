@@ -2,6 +2,7 @@ package com.example.atitude6430.injectionswithgit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import com.example.atitude6430.injectionswithgit.VehicleComponent;
 
 public class MainActivity extends AppCompatActivity {
 
